@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category>
+    <name>Cars</name>
+    <words>Porsche Audi BMW Mercedes Renault Skoda Hyundai Toyota Kia</words>
+  </category>
+  <category>
+    <name>Movies</name>
+    <words>Infinite Vampyr Greed Scarface Freaks Fury Strike Holiday</words>
+  </category>
+  <category>
+    <name>States</name>
+    <words>Germania Franta Romania Italia Grecia Austria Elvetia Polonia Olanda</words>
+  </category>
+  <category>
+    <name>Rivers</name>
+    <words>Dunare Rin Volga Nistru Loara Prut Siret Ialomita Elba</words>
+  </category>
+  <category>
+    <name>Mountains</name>
+    <words>Everest Alpi Carpati Atlas Elbrus Caucaz</words>
+  </category>
+</categories>

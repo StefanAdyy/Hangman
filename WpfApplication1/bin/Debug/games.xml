@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<games>
+  <game>
+    <name>Stefi</name>
+    <level>1</level>
+    <mistakes>2</mistakes>
+    <elapsedTime>6</elapsedTime>
+    <category>States</category>
+    <currentWord>OLANDA</currentWord>
+    <leftWords>5</leftWords>
+    <currentWordState>start</currentWordState>
+  </game>
+  <game>
+    <name>Ali</name>
+    <level>2</level>
+    <mistakes>0</mistakes>
+    <elapsedTime>10</elapsedTime>
+    <category>Rivers</category>
+    <currentWord>LOARA</currentWord>
+    <leftWords>5</leftWords>
+    <currentWordState>start</currentWordState>
+  </game>
+  <game>
+    <name>DoNotDisplay</name>
+    <level>0</level>
+    <mistakes>0</mistakes>
+    <elapsedTime>0</elapsedTime>
+    <category>cars</category>
+    <currentWord></currentWord>
+    <leftWords>5</leftWords>
+    <currentWordState>start</currentWordState>
+  </game>
+</games>

@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApplication1.Views.PlayerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1.Views"
+        mc:Ignorable="d"
+        Title="PlayerWindow" Height="235" Width="431">
+    <Grid Margin="44,26,207,26">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Column="1" Margin="107,-9,-254,-13" Grid.RowSpan="4" Grid.Row="1" RenderTransformOrigin="0.506,0.499">
+            <Image Source="{Binding Player.AvatarPath}" RenderTransformOrigin="-0.574,0.576" DockPanel.Dock="Left" Width="146"/>
+        </DockPanel>
+        <Label Grid.Row="1" Grid.Column="0" Content="Name: "/>
+        <Label Grid.Row="2" Grid.Column="0" Content="Rank: "/>
+        <Label Grid.Row="3" Grid.Column="0" Content="Won Games: "/>
+        <Label Grid.Row="4" Grid.Column="0" Content="Played Games: "/>
+        <Label Grid.Row="1" Content="{Binding Player.Name}" Grid.ColumnSpan="2" Margin="90,0,-107,26" Grid.RowSpan="2"/>
+        <Label Grid.Row="2" Content="{Binding Player.Rank}" Grid.ColumnSpan="2" Margin="90,0,-107,26" Grid.RowSpan="2"/>
+        <Label Grid.Row="3" Content="{Binding Player.WonGames}" Grid.ColumnSpan="2" Margin="90,0,-107,26" Grid.RowSpan="2"/>
+        <Label Grid.Row="4" Content="{Binding Player.PlayedGames}" Grid.ColumnSpan="2" Margin="90,0,-117,0"/>
+    </Grid>
+</Window>

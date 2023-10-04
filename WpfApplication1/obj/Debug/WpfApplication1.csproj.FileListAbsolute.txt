@@ -1,0 +1,229 @@
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\FirstWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\App.g.cs
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\FirstWindow.baml
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Z-Work\Lucru\Facultate\2017-2018\MVP\Lab6\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\FirstWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\App.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\FirstWindow.baml
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Z-Work\Lucru\Facultate\2018-2019\MVP\Lab7\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\StudentWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\App.g.cs
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.baml
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\StudentWindow.baml
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\StudentWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\StudentWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\StudentWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\StudentWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\_Lucru\Facultate\AniStudiu\2021-2022\MVP\Lab7\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.g.cs
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\StudentWindow.g.cs
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.baml
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\Views\StudentWindow.baml
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\stefa\Desktop\MVVM\MVVM-faraComenzi\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\App.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Buffers.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Memory.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Numerics.Vectors.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.xml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Buffers.xml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Memory.xml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Numerics.Vectors.xml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\Views\NewUserWindow.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\Views\NewUserWindow.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\Views\PlayerWindow.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\Views\PlayerWindow.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\Views\GameView.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\obj\Debug\Views\GameView.baml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.dll
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Buffers.dll
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Memory.dll
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.pdb
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.xml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Buffers.xml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Memory.xml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\Views\NewUserWindow.baml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.g.cs
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\Views\GameView.g.cs
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\Views\NewUserWindow.g.cs
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\Views\PlayerWindow.g.cs
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\Views\FirstWindow.baml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\Views\GameView.baml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\Views\PlayerWindow.baml
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\stefa\Desktop\Projects\StudentsAndGrades\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.dll
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Buffers.dll
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Memory.dll
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.pdb
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\Microsoft.Toolkit.Mvvm.xml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Buffers.xml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Memory.xml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\Views\NewUserWindow.baml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\Views\FirstWindow.g.cs
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\Views\GameView.g.cs
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\Views\NewUserWindow.g.cs
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\Views\PlayerWindow.g.cs
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\Views\FirstWindow.baml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\Views\GameView.baml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\Views\PlayerWindow.baml
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\stefa\Desktop\Projects\Hangman\WpfApplication1\obj\Debug\WpfApplication1.pdb

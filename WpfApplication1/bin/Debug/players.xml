@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<players>
+  <player>
+    <name>Adrian</name>
+    <avatarPath>D:\Altele\Poze-Video\Facultate\AAP_6233.JPG</avatarPath>
+    <rank>0</rank>
+    <wonGames>0</wonGames>
+    <playedGames>1</playedGames>
+  </player>
+  <player>
+    <name>DoNotDisplay</name>
+    <avatarPath>D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\StudentsAndGrades\WpfApplication1\bin\Debug\HangManPictures\hng6.png</avatarPath>
+    <rank>0</rank>
+    <wonGames>0</wonGames>
+    <playedGames>0</playedGames>
+  </player>
+</players>
